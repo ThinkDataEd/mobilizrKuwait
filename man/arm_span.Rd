@@ -15,9 +15,11 @@ A dataset containing the arm spans, heights and additional information from a
 group of Los Angeles high school students.
 }
 \details{
-\itemize{ \item age. The age of the student. \item gender_label. The gender
-of the student. \item armspan. The self-reported length of the student's arm
-span, in inches. \item height. The self-reported height of the student, in
-inches. }
+\itemize{
+\item age. The age of the student.
+\item sex. The sex of the student.
+\item armspan. The self-reported length of the student's arm span, in inches.
+\item height. The self-reported height of the student, in inches.
+}
 }
 \keyword{dataset}
