@@ -130,11 +130,11 @@ NULL
 
 #' CDC Youth Risk Behaviour Survey Data
 #'
-#' A dataset containing responses from the 2019 CDC Youth Risk Behavior Survey.
+#' A dataset containing responses from the 2022 CDC Youth Risk Behavior Survey.
 #'
 #' \itemize{
 #' \item age. age in years
-#' \item gender. sex assigned at birth
+#' \item sex sex assigned at birth
 #' \item grade. grade in school
 #' \item hisp_latino. whether or not student identifies as Hispanic or Latino
 #' \item race. race the student identifies with
@@ -168,7 +168,7 @@ NULL
 #' @keywords dataset
 #' @name cdc
 #' @usage data(cdc)
-#' @format A data frame with 13,677 observations of 30 variables
+#' @format A data frame with 17,232 observations of 32 variables
 #' @source \url{http://www.cdc.gov/HealthyYouth/yrbs/index.htm}
 NULL
 
