@@ -29,6 +29,8 @@ Authors:
   \item Amelia McNamara \email{amelia.mcnamara@stat.ucla.edu}
   \item Terri Johnson \email{terri.johnson@stat.ucla.edu}
   \item Steve Nolen \email{technolengy@gmail.com}
+  \item Monica Casillas \email{monica@idsucla.org}
+  \item Lily Fraser \email{lily@idsucla.org}
 }
 
 }

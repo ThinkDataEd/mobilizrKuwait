@@ -19,7 +19,7 @@ This dataset is a cleaned version of \code{atu_dirty}.
 }
 \details{
 \itemize{ \item caseid. unique identifier of individual survey participant
-\item age. the age of the respondent \item gender. the gender of the
+\item age. the age of the respondent \item sex. the sex of the
 respondent  \item fulltime_emp. the employment status of the respondent \item
 phys_challenge. does the respondent have a physical difficulty  \item sleep.
 the length of time the person sleeps, in minutes \item homework. How long the
