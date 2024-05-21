@@ -36,13 +36,16 @@ NULL
 #' A dataset containing a subset of variables from the American Time Use Survey.
 #' This dataset is a cleaned version of \code{atu_dirty}.
 #'
-#' \itemize{ \item caseid. unique identifier of individual survey participant
-#' \item age. the age of the respondent \item sex. the sex of the
-#' respondent  \item fulltime_emp. the employment status of the respondent \item
-#' phys_challenge. does the respondent have a physical difficulty  \item sleep.
-#' the length of time the person sleeps, in minutes \item homework. How long the
-#' respondent spent on homework assignments, in minutes \item socializing. the
-#' number of minutes the respondent spent socializing }
+#' \itemize{ 
+#' \item caseid. unique identifier of individual survey participant
+#' \item age. the age of the respondent 
+#' \item sex. the sex of the respondent  
+#' \item fulltime_emp. the employment status of the respondent 
+#' \item phys_challenge. does the respondent have a physical difficulty  
+#' \item sleep. the length of time the person sleeps, in minutes 
+#' \item homework. How long the respondent spent on homework assignments, in minutes 
+#' \item socializing. the number of minutes the respondent spent socializing 
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -59,14 +62,18 @@ NULL
 #' This dataset is "dirty", meaning it has elements which require formatting
 #' before use.
 #'
-#' \itemize{ \item caseid. unique identifier of individual survey participant
-#' \item V1. the age of the respondent \item V2. the gender of the respondent
-#' (1: Male, 2: Female) \item V3. the employment status of the respondent \item
-#' V4. does the respondent have a physical difficulty (1: Person did not report
+#' \itemize{ 
+#' \item caseid. unique identifier of individual survey participant
+#' \item V1. the age of the respondent 
+#' \item V2. the gender of the respondent (1: Male, 2: Female) 
+#' \item V3. the employment status of the respondent 
+#' \item V4. does the respondent have a physical difficulty (1: Person did not report
 #' having a physical difficulty, 2: Person surveyed reported the have a physical
-#' difficulty) \item V5. the length of time the person sleeps, in minutes \item
-#' V6. How long the respondent spent on homework assignments, in minutes \item
-#' V7. the number of minutes the respondent spent socializing }
+#' difficulty) 
+#' \item V5. the length of time the person sleeps, in minutes 
+#' \item V6. How long the respondent spent on homework assignments, in minutes 
+#' \item V7. the number of minutes the respondent spent socializing 
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -84,42 +91,52 @@ NULL
 #' various activities for a single 24 hour period. Variables provided are a
 #' subset of the entire survey.
 #'
-#' \itemize{ \item caseid. unique identifier of individual survey participant
-#' \item state. state of residence \item age. age of respondent \item gender.
-#' gender of respondent \item citizen. citizenship status of the respondent
-#' \item marital_stat. marital status of the respondent \item veteran. veteran
-#' status of the respondent \item active_armedforces. is the respondent an
-#' active service member of the U.S. armed forces? \item emp_status. status of
-#' employment \item multi_jobs. is the respondent working multiple jobs \item
-#' work_class. the type of work done by the respondent for employment \item
-#' retired. is the respondent retired \item fulltime_emp. the fulltime
-#' employment status of the respondent \item hours_worked. hours worked by
-#' respondent \item fam_income. income range of respondent's household \item
-#' household_size. number of people living within the respondent's household
+#' \itemize{ 
+#' \item caseid. unique identifier of individual survey participant
+#' \item state. state of residence 
+#' \item age. age of respondent 
+#' \item gender. gender of respondent 
+#' \item citizen. citizenship status of the respondent
+#' \item marital_stat. marital status of the respondent 
+#' \item veteran. veteran status of the respondent 
+#' \item active_armedforces. is the respondent an active service member of the U.S. armed forces? 
+#' \item emp_status. status of employment 
+#' \item multi_jobs. is the respondent working multiple jobs 
+#' \item work_class. the type of work done by the respondent for employment 
+#' \item retired. is the respondent retired 
+#' \item fulltime_emp. the fulltime employment status of the respondent 
+#' \item hours_worked. hours worked by respondent 
+#' \item fam_income. income range of respondent's household 
+#' \item household_size. number of people living within the respondent's household
 #' \item household_kids. number of children, under the age of 18, living in the
-#' respondent's household \item household_child. is there a child, under the age
-#' of 18, living in the household \item phys_challenge. does the respondent have
-#' a physical difficulty \item travel. time spent traveling, in minutes \item
-#' phone. time spent talking on a phone, in minutes \item volunteer. time spent
-#' volunteering, in minutes \item religion. time spend participating in
-#' religious activities, in minutes \item sports. time spent playing sports, in
-#' minutes \item social. time spent socializing, in minutes \item food. time
-#' spent eating or preparing food, in minutes \item social_civic. time spent
-#' in organizational, civic, and religious activities, in minutes \item household.
-#' time spent performing household duties, in minutes \item pro_services. time
-#' spent purchasing professsional services, in minutes \item purchasing. time
-#' spent shopping, in minutes \item education. time spent in educational
-#' activities, in minutes \item work. time spent in work related activities, in
-#' minutes \item care_nonhousehold. time spent engaged in non-household related
-#' duties, in minutes \item care_household. time spend providing care within
-#' respondent's household, in minutes \item household_chores. time spent
-#' participating in household chores, in minutes \item personal_care. time spent
-#' on personal care, in minutes \item sleep. time spent sleeping, in minutes
-#' \item groom. time spent grooming, in minutes \item health_related. time spent
-#' in health related actvities, in minutes \item eating. time spent eating, in
-#' minutes \item class. time spent within a classroom, in minutes \item
-#' homework. time spent on homework, in minutes \item socializing. time spent
-#' socializing, in minutes}
+#' respondent's household 
+#' \item household_child. is there a child, under the age of 18, living in the household 
+#' \item phys_challenge. does the respondent have a physical difficulty 
+#' \item travel. time spent traveling, in minutes 
+#' \item phone. time spent talking on a phone, in minutes 
+#' \item volunteer. time spent volunteering, in minutes 
+#' \item religion. time spend participating in religious activities, in minutes 
+#' \item sports. time spent playing sports, in minutes 
+#' \item social. time spent socializing, in minutes 
+#' \item food. time spent eating or preparing food, in minutes 
+#' \item social_civic. time spent in organizational, civic, and religious activities, in minutes 
+#' \item household. time spent performing household duties, in minutes 
+#' \item pro_services. time spent purchasing professsional services, in minutes 
+#' \item purchasing. time spent shopping, in minutes 
+#' \item education. time spent in educational activities, in minutes 
+#' \item work. time spent in work related activities, in minutes 
+#' \item care_nonhousehold. time spent engaged in non-household related duties, in minutes 
+#' \item care_household. time spend providing care within respondent's household, in minutes 
+#' \item household_chores. time spent participating in household chores, in minutes 
+#' \item personal_care. time spent on personal care, in minutes 
+#' \item sleep. time spent sleeping, in minutes
+#' \item groom. time spent grooming, in minutes 
+#' \item health_related. time spent in health related actvities, in minutes 
+#' \item eating. time spent eating, in minutes 
+#' \item class. time spent within a classroom, in minutes 
+#' \item homework. time spent on homework, in minutes 
+#' \item socializing. time spent socializing, in minutes
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -136,7 +153,7 @@ NULL
 #'
 #' \itemize{
 #' \item age. age in years
-#' \item sex sex assigned at birth
+#' \item sex. sex assigned at birth
 #' \item grade. grade in school
 #' \item hisp_latino. whether or not student identifies as Hispanic or Latino
 #' \item race. race the student identifies with
@@ -164,7 +181,8 @@ NULL
 #' \item asthma. student diagnosed as having asthma
 #' \item hours_sleep. reported hours of sleep on school nights
 #' \item drink_sportdrink. how often student consumed sports drinks over the past 7 days
-#' \item drink_water. how often student consumed water over the past 7 days}
+#' \item drink_water. how often student consumed water over the past 7 days
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -181,14 +199,16 @@ NULL
 #' block, for July 2010 through June 2011. Some blocks are dropped due to identifiability
 #' concerns.
 #'
-#' \itemize{ \item census. The census block. \item sector_type. Indicates the
-#' type of customers using water. \item longitude. The longitudinal centroid of
-#' the census block. \item latitude. The latitudinal centroid of the census
-#' block. \item census_pop. The number of people residing within the census
-#' block. \item total. The total amount of water used in the year in hundreds of
-#' cubic feet for each census block. \item july 2010 - june 2011. The amount of water used
-#' per month in hundreds of cubic feet for each census block. \item count. The
-#' number of users measured per census block by sector type.}
+#' \itemize{ 
+#' \item census. The census block. 
+#' \item sector_type. Indicates the type of customers using water. 
+#' \item longitude. The longitudinal centroid of the census block. 
+#' \item latitude. The latitudinal centroid of the census block. 
+#' \item census_pop. The number of people residing within the census block. 
+#' \item total. The total amount of water used in the year in hundreds of cubic feet for each census block. 
+#' \item july 2010 - june 2011. The amount of water used per month in hundreds of cubic feet for each census block. 
+#' \item count. The number of users measured per census block by sector type.
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -206,14 +226,16 @@ NULL
 #' block, for July 2010 through June 2011. Some blocks are dropped due to identifiability
 #' concerns. This data set is used for a student practicum and contains 1,193 randomly selected observations. The remaining 512 observations can be found in the \code{\link{dwp_teacher}} data.
 #'
-#' \itemize{ \item census. The census block. \item sector_type. Indicates the
-#' type of customers using water. \item longitude. The longitudinal centroid of
-#' the census block. \item latitude. The latitudinal centroid of the census
-#' block. \item census_pop. The number of people residing within the census
-#' block. \item total. The total amount of water used in the year in hundreds of
-#' cubic feet for each census block. \item july 2010 - june 2011. The amount of water used
-#' per month in hundreds of cubic feet for each census block. \item count. The
-#' number of users measured per census block by sector type.}
+#' \itemize{ 
+#' \item census. The census block. 
+#' \item sector_type. Indicates the type of customers using water. 
+#' \item longitude. The longitudinal centroid of the census block. 
+#' \item latitude. The latitudinal centroid of the census block. 
+#' \item census_pop. The number of people residing within the census block. 
+#' \item total. The total amount of water used in the year in hundreds of cubic feet for each census block. 
+#' \item july 2010 - june 2011. The amount of water used per month in hundreds of cubic feet for each census block. 
+#' \item count. The number of users measured per census block by sector type.
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -231,14 +253,16 @@ NULL
 #' block, for July 2010 through June 2011. Some blocks are dropped due to identifiability
 #' concerns. This data set is used for a student practicum and contains 512 observations can be used by teachers to validate the student models.
 #'
-#' \itemize{ \item census. The census block. \item sector_type. Indicates the
-#' type of customers using water. \item longitude. The longitudinal centroid of
-#' the census block. \item latitude. The latitudinal centroid of the census
-#' block. \item census_pop. The number of people residing within the census
-#' block. \item total. The total amount of water used in the year in hundreds of
-#' cubic feet for each census block. \item july 2010 - june 2011. The amount of water used
-#' per month in hundreds of cubic feet for each census block. \item count. The
-#' number of users measured per census block by sector type.}
+#' \itemize{ 
+#' \item census. The census block. 
+#' \item sector_type. Indicates the type of customers using water. 
+#' \item longitude. The longitudinal centroid of the census block. 
+#' \item latitude. The latitudinal centroid of the census block. 
+#' \item census_pop. The number of people residing within the census block. 
+#' \item total. The total amount of water used in the year in hundreds of cubic feet for each census block. 
+#' \item july 2010 - june 2011. The amount of water used per month in hundreds of cubic feet for each census block. 
+#' \item count. The number of users measured per census block by sector type.
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -255,11 +279,14 @@ NULL
 #' Player data for National Football League 1st string quarterbacks from 2017 or from members of
 #' the U.S. Men's National Soccer Team from 2017 Gold Cup roster.
 #'
-#' \itemize{ \item team. The home city for each player's team. \item player. The
-#' name of the player. \item ht_inches. The player's height in inches. \item
-#' wt_lbs. The player's weight in pounds. \item age. The age of the player in
-#' 2017. \item league. Indicates whether the player plays for the U.S. Mens
-#' National Soccer Team or the NFL.}
+#' \itemize{ 
+#' \item team. The home city for each player's team. 
+#' \item player. The name of the player. 
+#' \item ht_inches. The player's height in inches. 
+#' \item wt_lbs. The player's weight in pounds. 
+#' \item age. The age of the player in 2017. 
+#' \item league. Indicates whether the player plays for the U.S. Mens National Soccer Team or the NFL.
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -309,7 +336,10 @@ NULL
 #'
 #' A dataset containing survival statuses of actors and actresses in 50 randomly sampled "Slasher" films from 1960 to 2009.
 #'
-#' \itemize{ \item gender. the gender of actor/actress \item survival. the survival status of the actor/actress }
+#' \itemize{ 
+#' \item gender. the gender of actor/actress 
+#' \item survival. the survival status of the actor/actress 
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -323,11 +353,15 @@ NULL
 #' A dataset Containing Information on 1,000 Randomly Sampled Passengers of the
 #' Titanic.
 #'
-#' \itemize{ \item name. name of passenger \item age. age of passenger \item
-#' gender. gender of passenger \item fare. amount paid for ticket (in Pounds) to sail on the
-#' Titanic \item class. the class hospitality/room aboard the Titanic \item
-#' embarked. location passenger first stepped on board the Titanic \item
-#' survived. the survival status of the passenger \item titled. Does the person have a title other than Mr., Mrs., Miss., etc. in their name or not}
+#' \itemize{ 
+#' \item name. name of passenger 
+#' \item age. age of passenger 
+#' \item gender. gender of passenger 
+#' \item fare. amount paid for ticket (in Pounds) to sail on the Titanic 
+#' \item class. the class hospitality/room aboard the Titanic 
+#' \item embarked. location passenger first stepped on board the Titanic 
+#' \item survived. the survival status of the passenger 
+#' \item titled. Does the person have a title other than Mr., Mrs., Miss., etc. in their name or not}
 #'
 #' @docType data
 #' @keywords dataset
@@ -343,11 +377,16 @@ NULL
 #' A dataset containing information on 308 passengers of the Titanic that are
 #' not included in the \code{titanic} data set.
 #'
-#' \itemize{ \item name. name of passenger \item age. age of passenger \item
-#' gender. gender of passenger \item fare. amount paid for ticket (in Pounds) to sail on the
-#' Titanic \item class. the class hospitality/room aboard the Titanic \item
-#' embarked. location passenger first stepped on board the Titanic \item
-#' survived. the survival status of the passenger \item titled. Does the person have a title other than Mr., Mrs., Miss., etc. in their name or not}
+#' \itemize{ 
+#' \item name. name of passenger 
+#' \item age. age of passenger 
+#' \item gender. gender of passenger 
+#' \item fare. amount paid for ticket (in Pounds) to sail on the Titanic 
+#' \item class. the class hospitality/room aboard the Titanic 
+#' \item embarked. location passenger first stepped on board the Titanic 
+#' \item survived. the survival status of the passenger 
+#' \item titled. Does the person have a title other than Mr., Mrs., Miss., etc. in their name or not
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -418,8 +457,13 @@ NULL
 #' This dataset is "dirty", meaning it has elements which require formatting
 #' before use.
 #'
-#' \itemize{ \item age. Age in years
-#' \item lung_cap. Maximum forced expiratory volume in one second \item height. Height in inchces \item gender. "Female" or "Male" \item smoker. Describes whether a person is a smoker ("Yes") or not ("No")}
+#' \itemize{ 
+#' \item age. Age in years
+#' \item lung_cap. Maximum forced expiratory volume in one second 
+#' \item height. Height in inchces 
+#' \item gender. "Female" or "Male" 
+#' \item smoker. Describes whether a person is a smoker ("Yes") or not ("No")
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -445,7 +489,8 @@ NULL
 #' \item average_arrival_seats. Average number of seats on a arrival flight.
 #' \item airport. IATA Airport Code
 #' \item day. Day of the week, starting with Sunday.
-#' \item week. Week of the Month}
+#' \item week. Week of the Month
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -459,7 +504,9 @@ NULL
 #'
 #' A dataset containing every word in the Pride and Prejudice book.
 #'
-#' \itemize{ \item word. The words as they appear in the book, in order. }
+#' \itemize{ 
+#' \item word. The words as they appear in the book, in order. 
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -475,7 +522,8 @@ NULL
 #' \itemize{
 #' \item customer_id.
 #' \item number_of_orders. Number of purchases.
-#' \item average_amount_spent. Average amount spent on those purchases.}
+#' \item average_amount_spent. Average amount spent on those purchases.
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -490,7 +538,8 @@ NULL
 #'
 #' \itemize{
 #' \item word. Each word that has a defined sentiment.
-#' \item sentiment. Either positive or negative, based on the Bing sentiment lexicon.}
+#' \item sentiment. Either positive or negative, based on the Bing sentiment lexicon.
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -505,7 +554,8 @@ NULL
 #' This dataset contains stop words. Stop words are words that are generally filtered out before or after processing of natural language data because they are insignificant (i.e., a, the, etc.).
 #'
 #' \itemize{
-#' \item word.}
+#' \item word. Stop words
+#' }
 #'
 #' @docType data
 #' @keywords dataset
@@ -516,13 +566,14 @@ NULL
 
 #' Surveys Data
 #'
-#' This dataset contains surveys.
+#' This synthetic dataset contains survey responses of customers of an imaginary clothing store.
 #'
 #' \itemize{
-#' \item customer_id.
-#' \item age.
-#' \item gender.
-#' \item favorite_product.}
+#' \item customer_id. A number identifying each customer
+#' \item age. Age of customer, in years
+#' \item gender. M or F
+#' \item favorite_product. Favorite clothing product of customer
+#' }
 #'
 #' @docType data
 #' @keywords dataset
