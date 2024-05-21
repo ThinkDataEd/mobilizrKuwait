@@ -14,6 +14,8 @@ data(pride)
 A dataset containing every word in the Pride and Prejudice book.
 }
 \details{
-\itemize{ \item word. The words as they appear in the book, in order. }
+\itemize{ 
+\item word. The words as they appear in the book, in order. 
+}
 }
 \keyword{dataset}

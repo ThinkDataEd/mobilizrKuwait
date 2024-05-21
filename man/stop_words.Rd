@@ -15,6 +15,7 @@ This dataset contains stop words. Stop words are words that are generally filter
 }
 \details{
 \itemize{
-\item word.}
+\item word. Stop words
+}
 }
 \keyword{dataset}

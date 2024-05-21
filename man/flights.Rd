@@ -29,6 +29,7 @@ each of the top 10 busiest airports in the U.S. in March 2020.
 \item average_arrival_seats. Average number of seats on a arrival flight.
 \item airport. IATA Airport Code
 \item day. Day of the week, starting with Sunday.
-\item week. Week of the Month}
+\item week. Week of the Month
+}
 }
 \keyword{dataset}

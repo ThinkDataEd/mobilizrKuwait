@@ -11,13 +11,14 @@ A data frame with 36 observations of 4 variables
 data(surveys)
 }
 \description{
-This dataset contains surveys.
+This synthetic dataset contains survey responses of customers of an imaginary clothing store.
 }
 \details{
 \itemize{
-\item customer_id.
-\item age.
-\item gender.
-\item favorite_product.}
+\item customer_id. A number identifying each customer
+\item age. Age of customer, in years
+\item gender. M or F
+\item favorite_product. Favorite clothing product of customer
+}
 }
 \keyword{dataset}

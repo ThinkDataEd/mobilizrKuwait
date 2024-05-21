@@ -17,6 +17,7 @@ Toy (fictional) dataset related to purchases to assist in demonstrating various 
 \itemize{
 \item customer_id.
 \item number_of_orders. Number of purchases.
-\item average_amount_spent. Average amount spent on those purchases.}
+\item average_amount_spent. Average amount spent on those purchases.
+}
 }
 \keyword{dataset}

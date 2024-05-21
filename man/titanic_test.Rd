@@ -18,11 +18,16 @@ A dataset containing information on 308 passengers of the Titanic that are
 not included in the \code{titanic} data set.
 }
 \details{
-\itemize{ \item name. name of passenger \item age. age of passenger \item
-gender. gender of passenger \item fare. amount paid for ticket (in Pounds) to sail on the
-Titanic \item class. the class hospitality/room aboard the Titanic \item
-embarked. location passenger first stepped on board the Titanic \item
-survived. the survival status of the passenger \item titled. Does the person have a title other than Mr., Mrs., Miss., etc. in their name or not}
+\itemize{ 
+\item name. name of passenger 
+\item age. age of passenger 
+\item gender. gender of passenger 
+\item fare. amount paid for ticket (in Pounds) to sail on the Titanic 
+\item class. the class hospitality/room aboard the Titanic 
+\item embarked. location passenger first stepped on board the Titanic 
+\item survived. the survival status of the passenger 
+\item titled. Does the person have a title other than Mr., Mrs., Miss., etc. in their name or not
+}
 }
 \seealso{
 \link{titanic}

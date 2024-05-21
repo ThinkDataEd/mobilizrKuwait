@@ -19,7 +19,12 @@ This dataset is "dirty", meaning it has elements which require formatting
 before use.
 }
 \details{
-\itemize{ \item age. Age in years
-\item lung_cap. Maximum forced expiratory volume in one second \item height. Height in inchces \item gender. "Female" or "Male" \item smoker. Describes whether a person is a smoker ("Yes") or not ("No")}
+\itemize{ 
+\item age. Age in years
+\item lung_cap. Maximum forced expiratory volume in one second 
+\item height. Height in inchces 
+\item gender. "Female" or "Male" 
+\item smoker. Describes whether a person is a smoker ("Yes") or not ("No")
+}
 }
 \keyword{dataset}

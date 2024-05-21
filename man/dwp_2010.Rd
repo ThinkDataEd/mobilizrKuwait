@@ -19,14 +19,16 @@ block, for July 2010 through June 2011. Some blocks are dropped due to identifia
 concerns.
 }
 \details{
-\itemize{ \item census. The census block. \item sector_type. Indicates the
-type of customers using water. \item longitude. The longitudinal centroid of
-the census block. \item latitude. The latitudinal centroid of the census
-block. \item census_pop. The number of people residing within the census
-block. \item total. The total amount of water used in the year in hundreds of
-cubic feet for each census block. \item july 2010 - june 2011. The amount of water used
-per month in hundreds of cubic feet for each census block. \item count. The
-number of users measured per census block by sector type.}
+\itemize{ 
+\item census. The census block. 
+\item sector_type. Indicates the type of customers using water. 
+\item longitude. The longitudinal centroid of the census block. 
+\item latitude. The latitudinal centroid of the census block. 
+\item census_pop. The number of people residing within the census block. 
+\item total. The total amount of water used in the year in hundreds of cubic feet for each census block. 
+\item july 2010 - june 2011. The amount of water used per month in hundreds of cubic feet for each census block. 
+\item count. The number of users measured per census block by sector type.
+}
 }
 \seealso{
 \link{dwp_student}, \link{dwp_teacher}

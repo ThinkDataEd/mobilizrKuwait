@@ -19,6 +19,7 @@ This dataset contains a list of words and estimated positive/negative sentiment 
 \details{
 \itemize{
 \item word. Each word that has a defined sentiment.
-\item sentiment. Either positive or negative, based on the Bing sentiment lexicon.}
+\item sentiment. Either positive or negative, based on the Bing sentiment lexicon.
+}
 }
 \keyword{dataset}

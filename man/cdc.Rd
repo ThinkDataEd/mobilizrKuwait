@@ -19,14 +19,18 @@ A dataset containing responses from the 2022 CDC Youth Risk Behavior Survey.
 \details{
 \itemize{
 \item age. age in years
-\item sex sex assigned at birth
+\item sex. sex assigned at birth
 \item grade. grade in school
-\item hisp_latino. whether or not student identifies as Hispanic or Latino
-\item race. race the student identifies with
 \item height. height of student in meters
 \item weight. weight of student in kilograms
 \item seat_belt. how often student wore a seatbelt in motor vehicle driven by someone else
 \item drive_text. how often the student reported texting while driving in the past 30 days.
+\item hisp_latino. whether or not student identifies as Hispanic or Latino
+\item american_indian_or_alaska_native. whether or not student identifies as American Indian or Alaska Native
+\item asian. whether or not student identifies as Asian
+\item black_or_african_american. whether or not student identifies as black or African American
+\item native_hawaiian_or_other_pacific_islander. whether or not student identifies as Native Hawaiian or other Pacific Islander.
+\item white. whether or not student identifies as white.
 \item bully_school. did the student report being bullied while at school.
 \item bully_electronic. did the student report being bullied online.
 \item depressed. student reported feeling depressed for 2 weeks in a row, or more, during the past 12 months
@@ -41,12 +45,11 @@ A dataset containing responses from the 2022 CDC Youth Risk Behavior Survey.
 \item drink_milk. how often student drank milk over the previous 7 days
 \item eat_breakfast. how often the student reported eating breakfast over the past 7 days
 \item days_exercise_60. how often student was active for at least 60 mins over the previous 7 days.
-\item hours_tv. average number of hours spent watching tv on a school day
-\item hours_videogame. average number of hours spent playing videogames on a school day
+\item screen_time. average number of hours spent on a screen on a school day
 \item number_teams. number of sports teams played on during previous 12 months
-\item asthma. student diagnosed as having asthma
 \item hours_sleep. reported hours of sleep on school nights
 \item drink_sportdrink. how often student consumed sports drinks over the past 7 days
-\item drink_water. how often student consumed water over the past 7 days}
+\item drink_water. how often student consumed water over the past 7 days
+}
 }
 \keyword{dataset}
