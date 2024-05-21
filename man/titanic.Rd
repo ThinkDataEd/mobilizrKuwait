@@ -18,14 +18,14 @@ A dataset Containing Information on 1,000 Randomly Sampled Passengers of the
 Titanic.
 }
 \details{
-\itemize{ 
-\item name. name of passenger 
-\item age. age of passenger 
-\item gender. gender of passenger 
-\item fare. amount paid for ticket (in Pounds) to sail on the Titanic 
-\item class. the class hospitality/room aboard the Titanic 
-\item embarked. location passenger first stepped on board the Titanic 
-\item survived. the survival status of the passenger 
+\itemize{
+\item name. name of passenger
+\item age. age of passenger
+\item sex. sex of passenger
+\item fare. amount paid for ticket (in Pounds) to sail on the Titanic
+\item class. the class hospitality/room aboard the Titanic
+\item embarked. location passenger first stepped on board the Titanic
+\item survived. the survival status of the passenger
 \item titled. Does the person have a title other than Mr., Mrs., Miss., etc. in their name or not}
 }
 \seealso{

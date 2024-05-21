@@ -20,9 +20,9 @@ various activities for a single 24 hour period. Variables provided are a
 subset of the entire survey.
 }
 \details{
-\itemize{ 
-\item age. age of respondent 
-\item sex. sex of respondent 
+\itemize{
+\item age. age of respondent
+\item sex. sex of respondent
 \item education_level. education level of respondent
 \item race. race of respondent
 \item hispanic. whether the respondent is hispanic

@@ -18,12 +18,12 @@ Player data for National Football League 1st string quarterbacks from 2023 or fr
 the U.S. Men's National Soccer Team from 2023 Gold Cup roster
 }
 \details{
-\itemize{ 
-\item team. The home city for each player's team. 
-\item player. The name of the player. 
-\item ht_inches. The player's height in inches. 
-\item wt_lbs. The player's weight in pounds. 
-\item age. The age of the player in 2023. 
+\itemize{
+\item team. The home city for each player's team.
+\item player. The name of the player.
+\item ht_inches. The player's height in inches.
+\item wt_lbs. The player's weight in pounds.
+\item age. The age of the player in 2023.
 \item league. Indicates whether the player plays for the U.S. Men's National Soccer Team or the NFL.
 }
 }

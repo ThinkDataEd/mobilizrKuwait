@@ -19,17 +19,17 @@ This dataset is "dirty", meaning it has elements which require formatting
 before use.
 }
 \details{
-\itemize{ 
+\itemize{
 \item caseid. unique identifier of individual survey participant
-\item V1. the age of the respondent 
-\item V2. the gender of the respondent (1: Male, 2: Female) 
-\item V3. the employment status of the respondent 
+\item V1. the age of the respondent
+\item V2. the gender of the respondent (1: Male, 2: Female)
+\item V3. the employment status of the respondent
 \item V4. does the respondent have a physical difficulty (1: Person did not report
 having a physical difficulty, 2: Person surveyed reported the have a physical
-difficulty) 
-\item V5. the length of time the person sleeps, in minutes 
-\item V6. How long the respondent spent on homework assignments, in minutes 
-\item V7. the number of minutes the respondent spent socializing 
+difficulty)
+\item V5. the length of time the person sleeps, in minutes
+\item V6. How long the respondent spent on homework assignments, in minutes
+\item V7. the number of minutes the respondent spent socializing
 }
 }
 \seealso{

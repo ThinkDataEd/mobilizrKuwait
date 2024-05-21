@@ -18,15 +18,15 @@ A dataset containing a subset of variables from the American Time Use Survey.
 This dataset is a cleaned version of \code{atu_dirty}.
 }
 \details{
-\itemize{ 
+\itemize{
 \item caseid. unique identifier of individual survey participant
-\item age. the age of the respondent 
-\item sex. the sex of the respondent  
-\item fulltime_emp. the employment status of the respondent 
-\item phys_challenge. does the respondent have a physical difficulty  
-\item sleep. the length of time the person sleeps, in minutes 
-\item homework. How long the respondent spent on homework assignments, in minutes 
-\item socializing. the number of minutes the respondent spent socializing 
+\item age. the age of the respondent
+\item sex. the sex of the respondent
+\item fulltime_emp. the employment status of the respondent
+\item phys_challenge. does the respondent have a physical difficulty
+\item sleep. the length of time the person sleeps, in minutes
+\item homework. How long the respondent spent on homework assignments, in minutes
+\item socializing. the number of minutes the respondent spent socializing
 }
 }
 \seealso{
