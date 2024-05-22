@@ -89,7 +89,9 @@ NULL
 #' A dataset containing responses from the 2022 American Time Use Survey. Each
 #' participant is asked to document the amount of time spent participating in
 #' various activities for a single 24 hour period. Variables provided are a
-#' subset of the entire survey.
+#' subset of the entire survey. The American Time Use Survey Activity Lexicon,
+#' which is linked below, includes examples of different activities and how they
+#' are sorted into categories.
 #'
 #' \itemize{
 #' \item age. age of respondent
