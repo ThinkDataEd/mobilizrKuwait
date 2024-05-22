@@ -138,6 +138,7 @@ NULL
 #' @usage data(atus)
 #' @format A data frame with 8,136 observations of 38 variables
 #' @source \url{http://www.bls.gov/tus/}
+#' @source \url{https://www.bls.gov/tus/lexicons/lexiconwex2022.pdf}
 NULL
 
 
