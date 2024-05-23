@@ -146,7 +146,7 @@ NULL
 
 #' CDC Youth Risk Behaviour Survey Data
 #'
-#' A dataset containing responses from the 2022 CDC Youth Risk Behavior Survey.
+#' A dataset containing responses from the 2021 CDC Youth Risk Behavior Survey.
 #'
 #' \itemize{
 #' \item age. age in years

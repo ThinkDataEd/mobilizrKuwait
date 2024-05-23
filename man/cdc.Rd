@@ -14,7 +14,7 @@ A data frame with 17,232 observations of 32 variables
 data(cdc)
 }
 \description{
-A dataset containing responses from the 2022 CDC Youth Risk Behavior Survey.
+A dataset containing responses from the 2021 CDC Youth Risk Behavior Survey.
 }
 \details{
 \itemize{
