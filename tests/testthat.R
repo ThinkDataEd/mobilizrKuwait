@@ -1,4 +1,4 @@
 library(testthat)
-library(mobilizr)
+library(mobilizr2)
 
-test_check("mobilizr")
+test_check("mobilizr2")
