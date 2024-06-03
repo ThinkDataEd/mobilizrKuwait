@@ -1,6 +1,6 @@
-Package: mobilizr2
+Package: mobilizr2Kuwait
 Type: Package
-Title: Functions for the mobilizr2 Introduction to Data Science course.
+Title: Functions for the mobilizr2Kuwait Introduction to Data Science course.
 Description: This package is intended to simplify the code writing process for
     Introduction to Data Science, a Mobilize grant high school course. This is
     accomplished by creating wrappers and helper functions so students can work

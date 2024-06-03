@@ -1,4 +1,4 @@
-# mobilizr2
+# mobilizr2Kuwait
 
 `mobilizr2` is a set of functions that are used in the [Mobilize Project's](http://www.mobilizingcs.org) _Intro to Data Science_ (IDS) curriculum (which can be [found here](https://www.mobilizingcs.org/)). 
 
