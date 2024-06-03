@@ -165,9 +165,6 @@ NULL
 #' \item bully_school. did the student report being bullied while at school.
 #' \item bully_electronic. did the student report being bullied online.
 #' \item depressed. student reported feeling depressed for 2 weeks in a row, or more, during the past 12 months
-#' \item days_smoking. number of days student reported smoking cigarettes during past 30 days
-#' \item days_vaping. number of days student reported vaping, smoking electronic cigarettes, during past 30 days
-#' \item sexuality. how the student describes their sexual orientation.
 #' \item describe_weight. student perception of their weight relative to what they believe it should be
 #' \item drink_juice. how often student consumed fruit juice over the previous 7 days
 #' \item eat_fruit. how often student ate fruit over the previous 7 days
@@ -187,7 +184,7 @@ NULL
 #' @keywords dataset
 #' @name cdc
 #' @usage data(cdc)
-#' @format A data frame with 17,232 observations of 32 variables
+#' @format A data frame with 17,232 observations of 29 variables
 #' @source \url{http://www.cdc.gov/HealthyYouth/yrbs/index.htm}
 NULL
 
