@@ -2,8 +2,8 @@
 % Please edit documentation in R/mobilizr.R
 \docType{package}
 \name{mobilizr}
-\alias{IdsR}
-\alias{IdsR-package}
+\alias{mobilizr2Kuwait}
+\alias{mobilizr2Kuwait-package}
 \alias{mobilizr}
 \title{mobilizr: Functions for the Mobilize Intro to Data Science course.}
 \description{
