@@ -1,6 +1,6 @@
-Package: mobilizr2Kuwait
+Package: mobilizrKuwait
 Type: Package
-Title: Functions for the mobilizr2Kuwait Introduction to Data Science course.
+Title: Functions for the mobilizrKuwait Introduction to Data Science course.
 Description: This package is intended to simplify the code writing process for
     Introduction to Data Science, a Mobilize grant high school course. This is
     accomplished by creating wrappers and helper functions so students can work
@@ -12,14 +12,17 @@ Authors@R: as.person(c(
     "Amelia McNamara <amelia.mcnamara@stat.ucla.edu> [aut]",
     "Terri Johnson <terri.johnson@stat.ucla.edu> [aut]",
     "Steve Nolen <technolengy@gmail.com> [aut]",
-    "Monica Casillas <monica@idsucla.org> [aut]",
-    "Lily Fraser <lily@idsucla.org> [aut]"
+    "Monica Casillas <monica@thinkdataed.org> [aut]",
+    "Lily Fraser <lily@thinkdataed.org> [aut]"
   ))
 Encoding: UTF-8
 Depends:
     R (>= 3.0.2),
     utils,
     stats,
+    network,
+    RColorBrewer,
+    ggplot2,
     dplyr,
     leaflet,
     mosaic,
@@ -46,5 +49,5 @@ Suggests:
 License: GPL (>= 2)
 LazyData: TRUE
 URL: https://www.mobilizingcs.org
-Maintainer: IDSUCLA <admin@idsucla.org>
+Maintainer: ThinkDataEd <admin@thinkdataed.org>
 RoxygenNote: 7.3.1

@@ -1,4 +1,4 @@
 library(testthat)
-library(mobilizr2Kuwait)
+library(mobilizrKuwait)
 
-test_check("mobilizr2Kuwait")
+test_check("mobilizrKuwait")
